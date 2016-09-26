@@ -6,7 +6,7 @@ Thời gian: Ngày 26 tháng 09 năm 2016
 
 ## Tài liệu tham khảo
 
-* Xem video hướng dẫn cài đặt trực tuyến trên Youtube của `ProgrammingKnowledge`:
+* Xem video hướng dẫn cài đặt trực tuyến trên Youtube của tác giả `ProgrammingKnowledge`:
 
 1. [How to install Oracle Java JDK on Ubuntu Linux (14.04 LTS)](https://www.youtube.com/watch?v=VrOhA-I3aFs&feature=youtu.be)
 
@@ -14,7 +14,7 @@ Thời gian: Ngày 26 tháng 09 năm 2016
 	
 3. [How to Install Genymotion Android Emulator in Ubuntu Linux](https://www.youtube.com/watch?v=k3MSTD9SLy4)
 	
-* Bài viết hướng dẫn của `Ngọc Lục`: [HƯỚNG DẪN CÀI ĐẶT JDK VÀ ANDROID STUDIO TRÊN LINUX](http://lucngoc.com/hoc-tap/huong-dan-cai-dat-jdk-va-android-studio-tren-linux/)
+* Bài viết hướng dẫn của tác giả Ngọc Lục: [HƯỚNG DẪN CÀI ĐẶT JDK VÀ ANDROID STUDIO TRÊN LINUX](http://lucngoc.com/hoc-tap/huong-dan-cai-dat-jdk-va-android-studio-tren-linux/)
 	
 * Hoặc tải video hướng dẫn cài đặt của `ProgrammingKnowledge` theo địa chỉ:
 
@@ -44,7 +44,7 @@ Thời gian: Ngày 26 tháng 09 năm 2016
 	Nhấn `Ctrl + X + Y` và `Enter` để lưu lại thay đổi.
 	
 	
-## Hướng dẫn cài Genymotion trên Ubuntu
+## Hướng dẫn cài đặt Genymotion trên Ubuntu
 
 * Bước 1: Cài VirtualBox, [Download](https://www.virtualbox.org/wiki/Linux_Downloads), chọn phiên bản phù hợp với hệ điều hành.
 
