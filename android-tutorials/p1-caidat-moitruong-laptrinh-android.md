@@ -1,4 +1,4 @@
-# Cài đặt môi trường lập trình Android
+# Cài đặt môi trường lập trình Android trên hệ điều hành Ubuntu 14.04 LTS
 
 Thực hiện: Thi Minh Nhựt - Email: thiminhnhut@gmail.com
 
@@ -8,19 +8,19 @@ Thời gian: Ngày 26 tháng 09 năm 2016
 
 * Xem video hướng dẫn cài đặt trực tuyến trên Youtube của `ProgrammingKnowledge`:
 
-	1. [How to install Oracle Java JDK on Ubuntu Linux (14.04 LTS)](https://www.youtube.com/watch?v=VrOhA-I3aFs&feature=youtu.be)
+1. [How to install Oracle Java JDK on Ubuntu Linux (14.04 LTS)](https://www.youtube.com/watch?v=VrOhA-I3aFs&feature=youtu.be)
 
-	2. [How to install Android Studio in Ubuntu Linux (14.04 LTS)](https://www.youtube.com/watch?v=axtVId9ASmY)
+2. [How to install Android Studio in Ubuntu Linux (14.04 LTS)](https://www.youtube.com/watch?v=axtVId9ASmY)
 	
-	3. [How to Install Genymotion Android Emulator in Ubuntu Linux](https://www.youtube.com/watch?v=k3MSTD9SLy4)
+3. [How to Install Genymotion Android Emulator in Ubuntu Linux](https://www.youtube.com/watch?v=k3MSTD9SLy4)
 	
 * Bài viết hướng dẫn của `Ngọc Lục`: [HƯỚNG DẪN CÀI ĐẶT JDK VÀ ANDROID STUDIO TRÊN LINUX](http://lucngoc.com/hoc-tap/huong-dan-cai-dat-jdk-va-android-studio-tren-linux/)
 	
 * Hoặc tải video hướng dẫn cài đặt của `ProgrammingKnowledge` theo địa chỉ:
 
-	1. [How to install Oracle Java JDK on Ubuntu Linux (14.04 LTS)](https://drive.google.com/file/d/0BwKQkbSEXWHFekRfU3J0SThzdmM/view?usp=sharing)
+1. [How to install Oracle Java JDK on Ubuntu Linux (14.04 LTS)](https://drive.google.com/file/d/0BwKQkbSEXWHFekRfU3J0SThzdmM/view?usp=sharing)
 
-	2. [How to install Android Studio in Ubuntu Linux (14.04 LTS)](https://drive.google.com/file/d/0BwKQkbSEXWHFR1JBSW15dXNpZ2M/view?usp=sharing)
+2. [How to install Android Studio in Ubuntu Linux (14.04 LTS)](https://drive.google.com/file/d/0BwKQkbSEXWHFR1JBSW15dXNpZ2M/view?usp=sharing)
 
 ## Hướng dẫn cài đặt Oracle Java JDK trên Ubuntu
 
@@ -71,14 +71,14 @@ Chọn phiên bản 64 bit (không có phiên bản 32 bit cho Ubuntu).
 
 ## Hướng dẫn cài đặt Android Studio trên Ubuntu
 
-* Bước 1: Tải `Android-Studio` về máy: [Download](https://developer.android.com/studio/index.htm)
+* Bước 1: Tải `Android-Studio` về máy: [Download](https://developer.android.com/studio/index.htm).
 
 	Nếu máy tính sử dụng phiên bản hệ điều hành 64 bit thì cài thêm ứng dụng hỗ trợ chạy ứng dụng 32 bit:
 	
 			sudo apt-get install -y libc6-i386 lib32stdc++6 lib32gcc1 lib32ncurses5 lib32z1
 			
 * Bước 2: Sau khi tải về thành công được thư mục `android-studio-ide-*-linux.zip`, 
-ví dụ: `android-studio-ide-145.3276617-linux.zip`. Copy `.zip` này và chuyển đến thư mục `/home/username/`.
+ví dụ: `android-studio-ide-145.3276617-linux.zip`. Copy file `.zip` này và chuyển đến thư mục `/home/username/`.
 
 * Bước 3: Tiến hành cài đặt, mở cửa sổ lệnh Terminal (`Ctrl + Alt + T`):
 
